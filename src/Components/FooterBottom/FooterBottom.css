@@ -1,0 +1,38 @@
+
+.footer-bottom{
+    background-color: tomato;
+    padding: 20px 0;
+
+    
+}
+.footer-bottom ul{
+    list-style: none;
+    margin-top: 0;
+}
+.footer-bottom .row{
+    /* margin: 0;
+    padding: 0; */
+}
+.footer-bottom a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 5px;
+    font-size: 11px;
+
+}
+.footer-bottom i{
+   color: #fff;
+}
+
+
+
+@media (max-width:575px){
+    .footer-bottom{
+        
+    }
+    .footer-bottom .col-xl-4{
+        margin: 0;
+        padding: 0;
+    }
+}
+

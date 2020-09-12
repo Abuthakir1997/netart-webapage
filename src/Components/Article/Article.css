@@ -1,0 +1,43 @@
+.Article p{
+    font-size: 14px;
+    width: auto;
+    text-align: center;
+}
+.Article img{
+    width: 100%;
+    margin-top: 10px;
+
+}
+.Article hr{
+    background-color: red;
+    height: 2px;   
+
+}
+
+@media (max-width: 575.98px){
+    .Article .container {
+        width: auto;
+        padding: 0;
+        margin: 0;
+    }
+    .Article img{      
+        width: 100%;
+    }
+
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,29 @@
+.footer-top{
+    text-align: center;
+}
+.footer-top p{
+    font-size: initial;
+    text-align: center;
+    width: auto;
+}
+.footer-top  .linecolor{
+   color: tomato;
+}
+
+@media (max-width:575px){
+    .footer-top .col-12{
+        padding: 0;
+    }
+}
+@media (max-width:575px){
+    .footer-top{
+        max-width: 441px;
+    }
+    .footer-top p{
+        
+    }
+    .footer-top .col-12{
+        padding: 0;
+        margin: 0;
+    }
+}

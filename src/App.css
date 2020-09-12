@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+
+body,html {
+  
+  width: 100%;
+}
+#root{
+  
+   background: linear-gradient(to bottom right, #ffe592 0%, #fda085 100%) no-repeat; 
+  
+}
+html{
+  scroll-behavior: smooth;
+}
+
