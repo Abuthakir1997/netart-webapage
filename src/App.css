@@ -11,11 +11,10 @@ body,html {
   
   width: 100%;
 }
-#root{
-  
-   background: linear-gradient(to bottom right, #ffe592 0%, #fff 100%) no-repeat; 
-  
+#root {
+  background: linear-gradient(white 0%, #fda085 100%) no-repeat;
 }
+
 html{
   scroll-behavior: smooth;
 }
