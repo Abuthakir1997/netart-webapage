@@ -8,17 +8,17 @@ const footerBottom = () => {
             <div className="row m-0 p-0">
                 <div className="col-xl-4 col-md-12">
                     <ul>
-                        <li><i class="icofont-phone-circle"></i><a href="/http://www.google.com" target="_blank">Tollfree-1800 200 1234</a></li>
+                        <li><i class="icofont-phone-circle"></i><a href="/http://www.google.com">Tollfree-1800 200 1234</a></li>
                     </ul>
                 </div>
                 <div className="col-xl-4 col-md-12">
                     <ul>
-                        <li><i class="icofont-facebook"></i><a href="http://www.facebook.com/cripumps" target="_blank">www.facebook.com/cripumps</a></li>
+                        <li><i class="icofont-facebook"></i><a href="http://www.facebook.com/cripumps">www.facebook.com/cripumps</a></li>
                     </ul>
                 </div>
                 <div className="col-xl-4 col-md-12">
                     <ul>
-                        <li><i class="icofont-world"></i><a href="http://www.crigroups.com/" target="_blank">www.crigroups.com</a></li>
+                        <li><i class="icofont-world"></i><a href="http://www.crigroups.com/">www.crigroups.com</a></li>
                     </ul>
                 </div>
 
