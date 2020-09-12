@@ -2,7 +2,6 @@
     margin: 30px 0;
 
 }
-
 .banner .row::after{    
 
     content: '';
@@ -10,20 +9,17 @@
     clear: both;
 
 }
-
 .left-image{
     margin: 17px 0 0 0;
     padding: 33px 0;
     width: 300px;
     float: left;
 }
-
 .right-image{
 
     max-width: 100%;
     float: left;
 }
-
 .banner .col-xl-8{
     float: left;
 
@@ -50,6 +46,9 @@
     text-align: left;
     margin: 0;
 }
+
+
+
 
 /* media queries */
 

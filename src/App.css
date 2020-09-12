@@ -12,7 +12,7 @@ body,html {
   width: 100%;
 }
 #root {
-  background: linear-gradient(white 0%, #fda085 100%) no-repeat;
+  background: linear-gradient(#fff 0%, #ff920485 100%) no-repeat;
 }
 
 html{
